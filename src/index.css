@@ -1,0 +1,6 @@
+.icon-hover:hover {
+  color: green !important;
+}
+.icon-hover:hover svg {
+  color: aquamarine;
+}
